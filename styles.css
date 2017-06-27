@@ -1,0 +1,36 @@
+#interesting_knowledge {
+  font-style: italic;
+  }
+
+.item_lable {
+  font-weight: bold;
+  }
+
+.list {
+  list-style-type: none;
+  padding: 0;
+  }
+
+.page {
+  border: thin ridge black;
+  width: 400px;
+  box-shadow: 10px 10px grey;
+  background: URL("http://cdn.bulbagarden.net/upload/c/ce/Pok%C3%A9TV_extra_scene_XY117.png")
+  }
+
+.information {
+  padding: 3%;
+  margin: 2%;
+  border: 1px solid #ccc;
+  }
+
+.name {
+  padding:5% 3%;
+  }
+
+img {
+  display: block;
+  margin: 0 auto;
+  padding: 0 3% 2%;
+  width: 300px;
+  }
